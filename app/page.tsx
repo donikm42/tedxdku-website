@@ -299,7 +299,7 @@ export default function Home() {
 
           <div className="concept-copy">
             <p className="concept-lead">
-              What happens when scale fails, and our measures no longer match reality?
+              hello world?
             </p>
             <p>
               Disorders of Magnitude explores the fixed-magnitude biases we inherit
